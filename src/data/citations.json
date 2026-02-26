@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "texte": "Le bonheur de ta vie dépend de la qualité de tes pensées.",
+    "auteur": "Marc Aurèle",
+    "themes": ["sagesse"],
+    "shift": "tous"
+  },
+  {
+    "id": 2,
+    "texte": "La mer nous apprend que certaines choses échappent à notre contrôle.",
+    "auteur": "Sagesse Marine",
+    "themes": ["mer"],
+    "shift": "tous"
+  }
+]

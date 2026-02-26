@@ -1,0 +1,33 @@
+{
+  "preparation": [
+    {
+      "id": "humeur_matin",
+      "question": "Humeur au début du shift ?",
+      "type": "emojis",
+      "options": ["😊", "😐", "😞", "😤"]
+    },
+    {
+      "id": "controle",
+      "question": "Sur quoi ai-je le contrôle ?",
+      "type": "text"
+    }
+  ],
+  "bilan": [
+    {
+      "id": "humeur_soir",
+      "question": "Humeur à la fin du shift ?",
+      "type": "emojis",
+      "options": ["😊", "😐", "😞", "😤"]
+    },
+    {
+      "id": "calme",
+      "question": "Ai-je gardé mon calme ?",
+      "type": "note/5"
+    },
+    {
+      "id": "amelioration",
+      "question": "Une chose à améliorer",
+      "type": "text"
+    }
+  ]
+}

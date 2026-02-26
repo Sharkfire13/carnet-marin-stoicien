@@ -1,0 +1,13 @@
+import Dexie from 'dexie';
+
+export const db = new Dexie('CarnetMarinStoicien');
+
+db.version(1).stores({
+  shifts: '++id, date, type, humeur_matin, controle, questionVariablePrepa, humeur_soir, calme, amelioration, questionVariableBilan',
+  favoris: '++id, citationId, texte, auteur, date'
+});
+
+export const getCurrentDate = () => {
+  const now = new Date();
+  return now.toISOString().split('T')[0];
+};

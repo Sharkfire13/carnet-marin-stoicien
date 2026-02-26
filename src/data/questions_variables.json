@@ -1,0 +1,21 @@
+{
+  "preparation": [
+    "Quelle vertu stoïcienne veux-tu pratiquer ?",
+    "Qu’est-ce qui pourrait te troubler ?",
+    "Quelle est ton intention pour ce shift ?",
+    "As-tu bien dormi ?",
+    "Qu’est-ce que tu redoutes le plus ?"
+  ],
+  "bilan": [
+    "As-tu réagi à quelque chose hors de ton contrôle ?",
+    "Qu’est-ce qui t’a aidé à tenir ?",
+    "Qu’aurais-tu pu mieux faire ?",
+    "As-tu bien communiqué ?",
+    "Qu’est-ce que tu retiens de ce shift ?"
+  ],
+  "mer": [
+    "La mer était-elle avec toi ou contre toi ?",
+    "Qu’est-ce que la mer t’a appris ?",
+    "As-tu écouté ton intuition ?"
+  ]
+}
